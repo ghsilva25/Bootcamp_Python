@@ -5,3 +5,9 @@ print(False)
 print("Python")
 
 
+int()
+float()
+str()
+bool()
+
+
